@@ -3,6 +3,7 @@
 
 <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/shocked.gif" alt="whatttt???" height=auto width=auto />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=Have+A+Look+Around;Everything+is+useless;Thank+you+for+being+here.">
+***
 ## 💫 About Me:<br>
 🔭 _Perfection isn't the goal_.<br>
 - 👋 Hi, I’m subodh<br>
