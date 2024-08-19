@@ -32,7 +32,7 @@
 <p align="center">
   <i>&copy; <a href="https://github.com/hiddenuser-sk/">Subodh </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
-  <a href="https://github.com/npm-run-test"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
+  <img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /><br>
   <kbd>Thanks for visiting :)</kbd>
 </p>
 
