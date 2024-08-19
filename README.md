@@ -1,4 +1,4 @@
-<!-- Copyright by Vedansh (offensive-vk) 2022 - Present. All Rights Reserved. -->
+<!-- Copyright by Subodh (hiddenuser-sk) 2024 - Present. All Rights Reserved. -->
 # Hello, Everyone !
 ***
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=Have+A+Look+Around;Everything+is+useless;Thank+you+for+being+here.">
