@@ -37,6 +37,10 @@
     </a>
 </details>
     ***
+    <details>
+  <summary><h4>💻 Top Languages ✅</h4></summary>
+    <img src="./assets/languages.svg" alt="..." height=auto width=auto />
+    </details>
 <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
