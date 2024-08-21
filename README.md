@@ -27,7 +27,16 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/220px-HTML5_logo_and_wordmark.svg.png" height="40" width="40" alt="HTML">
                 </p>
     ***
-
+<details>
+    <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
+    <div align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-dark.svg" height=250 width=850 alt="snake" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-light.svg" height=250 width=850 alt="snake" />
+        <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
+     </picture>
+    </div>
+</details>
 <p align="center">
   <i>&copy; <a href="https://github.com/hiddenuser-sk/">Subodh </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
