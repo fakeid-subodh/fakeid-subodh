@@ -27,6 +27,15 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/220px-HTML5_logo_and_wordmark.svg.png" height="40" width="40" alt="HTML">
                 </p>
                 <details>
+                    Happy Teacher’s Day! 🌟
+
+I wanted to take a moment to express my deepest gratitude for all the guidance, support, and wisdom you have shared with me. Your dedication to teaching and your passion for the subject have truly inspired me to strive for excellence.
+
+Thank you for believing in me, even when I doubted myself. Your encouragement has been a beacon of light, guiding me through challenges and helping me grow both academically and personally.
+
+You are not just a teacher but a mentor and a role model. I feel incredibly fortunate to have you as my teacher.
+
+Wishing you a wonderful Teacher’s Day filled with joy and appreciation!
   <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
     <a href="https://github.com/hiddenuser-sk">
        <picture>
