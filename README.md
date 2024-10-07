@@ -32,12 +32,8 @@
     <a href="https://github.com/hiddenuser-sk">
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
-<p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
 <p align="center">
   <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
-</p>
-<p align="center">
-  <a href="https://github.com/hiddenuser-sk">See ya <3</a>
 </p>
   <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
     <a href="https://github.com/hiddenuser-sk">
@@ -68,6 +64,9 @@
   <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
   <img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /><br>
   <kbd>Thanks for visiting :)</kbd>
+    <p align="center">
+  <a href="https://github.com/hiddenuser-sk">See ya <3</a>
+</p>
 </p>
 
 <!-- Copyright by Subodh (hiddenuser-sk) 2024 - Present. All Rights Reserved. -->
