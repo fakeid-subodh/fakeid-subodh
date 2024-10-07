@@ -54,6 +54,9 @@
      </picture>
     </div>
 </details>
+         <summary><h4>what do i do??</h4></summary>
+        ctrl + c
+        ctrl+v
 <p align="center">
   <i>&copy; <a href="https://github.com/hiddenuser-sk/">Subodh </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
