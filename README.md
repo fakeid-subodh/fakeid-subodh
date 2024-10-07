@@ -28,14 +28,14 @@
                 </p>
                 <details>
                 <hr>
- <summary><h4>💻Why poorly made?⬇️</h4></summary>
     <a href="https://github.com/hiddenuser-sk">
+  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
 <p align="center">
   <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
 </p>
-  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
+ <summary><h4>💻Why poorly made?⬇️</h4></summary>
     <a href="https://github.com/hiddenuser-sk">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/hiddenuser-sk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
