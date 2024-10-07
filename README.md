@@ -55,7 +55,7 @@
     </div>
 </details>
          <summary><h4>what do i do??</h4></summary>
-        ctrl + c
+        ctrl + c<br>
         ctrl+v
 <p align="center">
   <i>&copy; <a href="https://github.com/hiddenuser-sk/">Subodh </a> 2024 - Present</i><br>
