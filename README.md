@@ -28,7 +28,8 @@
                 </p>
                 <details>
                 <hr>
-
+ <summary><h4>💻Why poorly made?⬇️</h4></summary>
+    <a href="https://github.com/hiddenuser-sk">
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
 <p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
